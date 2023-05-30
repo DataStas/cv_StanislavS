@@ -1,6 +1,6 @@
 # cv
  
-Some tasks that i have done during studying. I can show more if u ask.
+Some tasks that i have done during studying. I can show more if needed.
 
 Structure: Dota 2 - final assesment in HSE course. Gradient boosting and logit. Still working on him... (fix data, try other algorithms and hyperparams)
 
